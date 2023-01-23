@@ -1,0 +1,162 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Eleve\Downloads\aruco\aruco-3.1.12\src\cameraparameters.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Eleve\Downloads\aruco\aruco-3.1.12\src\debug.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Eleve\Downloads\aruco\aruco-3.1.12\src\dictionary.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Eleve\Downloads\aruco\aruco-3.1.12\src\ippe.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Eleve\Downloads\aruco\aruco-3.1.12\src\markerdetector.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Eleve\Downloads\aruco\aruco-3.1.12\src\markerlabeler.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Eleve\Downloads\aruco\aruco-3.1.12\src\posetracker.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Eleve\Downloads\aruco\aruco-3.1.12\src\cvdrawingutils.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Eleve\Downloads\aruco\aruco-3.1.12\src\dictionary_based.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Eleve\Downloads\aruco\aruco-3.1.12\src\marker.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Eleve\Downloads\aruco\aruco-3.1.12\src\markerdetector_impl.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Eleve\Downloads\aruco\aruco-3.1.12\src\markermap.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Eleve\Downloads\aruco\aruco-3.1.12\src\fractaldetector.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Eleve\Downloads\aruco\aruco-3.1.12\src\fractallabelers\fractalposetracker.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Eleve\Downloads\aruco\aruco-3.1.12\src\fractallabelers\fractalmarkerset.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Eleve\Downloads\aruco\aruco-3.1.12\src\fractallabelers\fractalmarker.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Eleve\Downloads\aruco\aruco-3.1.12\src\fractallabelers\fractallabeler.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Eleve\Downloads\aruco\aruco-3.1.12\src\dcf\dcfmarkermaptracker.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Eleve\Downloads\aruco\aruco-3.1.12\src\dcf\dcfmarkertracker.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Eleve\Downloads\aruco\aruco-3.1.12\src\dcf\dcf_utils.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Eleve\Downloads\aruco\aruco-3.1.12\src\dcf\trackerimpl.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\Eleve\Downloads\aruco\aruco-3.1.12\src\aruco_cvversioning.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Eleve\Downloads\aruco\aruco-3.1.12\src\cameraparameters.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Eleve\Downloads\aruco\aruco-3.1.12\src\dictionary_based.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Eleve\Downloads\aruco\aruco-3.1.12\src\ippe.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Eleve\Downloads\aruco\aruco-3.1.12\src\markerdetector_impl.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Eleve\Downloads\aruco\aruco-3.1.12\src\markermap.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Eleve\Downloads\aruco\aruco-3.1.12\src\timers.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Eleve\Downloads\aruco\aruco-3.1.12\src\aruco_export.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Eleve\Downloads\aruco\aruco-3.1.12\src\cvdrawingutils.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Eleve\Downloads\aruco\aruco-3.1.12\src\dictionary.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Eleve\Downloads\aruco\aruco-3.1.12\src\levmarq.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Eleve\Downloads\aruco\aruco-3.1.12\src\marker.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Eleve\Downloads\aruco\aruco-3.1.12\src\picoflann.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Eleve\Downloads\aruco\aruco-3.1.12\src\aruco.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Eleve\Downloads\aruco\aruco-3.1.12\src\debug.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Eleve\Downloads\aruco\aruco-3.1.12\src\markerdetector.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Eleve\Downloads\aruco\aruco-3.1.12\src\markerlabeler.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Eleve\Downloads\aruco\aruco-3.1.12\src\posetracker.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Eleve\Downloads\aruco\aruco-3.1.12\src\fractaldetector.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Eleve\Downloads\aruco\aruco-3.1.12\src\fractallabelers\fractalposetracker.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Eleve\Downloads\aruco\aruco-3.1.12\src\fractallabelers\fractalmarkerset.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Eleve\Downloads\aruco\aruco-3.1.12\src\fractallabelers\fractalmarker.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Eleve\Downloads\aruco\aruco-3.1.12\src\fractallabelers\fractallabeler.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Eleve\Downloads\aruco\aruco-3.1.12\src\dcf\dcfmarkermaptracker.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Eleve\Downloads\aruco\aruco-3.1.12\src\dcf\dcfmarkertracker.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Eleve\Downloads\aruco\aruco-3.1.12\src\dcf\dcf_utils.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Eleve\Downloads\aruco\aruco-3.1.12\src\dcf\trackerimpl.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Eleve\Downloads\aruco\aruco-3.1.12\src\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{0449F93F-54D6-3F56-AADF-F0EA575B073A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{2862E8EB-1077-389F-AA8B-FBD1748B4E16}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
